@@ -1,18 +1,17 @@
-# [Kanban Board Application](https://main.d2nq9mz8ggbsl4.amplifyapp.com)
+# [Kanban Board Assignment](https://kanban-board-ex.netlify.app/)
 
-This is a Kanban board application built using React JS that interacts with the provided API from [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment). The application allows users to dynamically adjust the Kanban board based on their grouping and sorting preferences. Users can group tickets by status, user, or priority, and sort the displayed tickets by priority or title. The application also retains the user's view state even after page reload.
+This React-based Kanban board application allows users to interact with ticket data retrieved from a provided API. Users can dynamically group and sort tickets based on different criteria, providing a flexible and interactive user experience.
 
 ## Features
 
-- Group tickets by status, user, or priority.
-- Sort tickets by priority or title.
-- Visually appealing and responsive design.
-- Ability to save the user's view state in local storage.
-- Priority levels are defined as Urgent (4), High (3), Medium (2), Low (1), and No priority (0).
+- Dynamic grouping of tickets by status, user, or priority.
+- Sorting tickets by priority or title.
+- Responsive and visually appealing design.
+- Persistent view state, retaining user preferences after page reload.
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+You can see a live demo of the Kanban board application [here](https://kanban-board-ex.netlify.app/).
 
 ## Installation
 
@@ -50,6 +49,8 @@ To run the Kanban board application locally, follow these steps:
 4. The Kanban board will dynamically adjust to reflect your choices.
 
 5. The application will save your view state, so you can return to your preferred settings even after a page reload.
+   
+7. Also, this site has a dark mode and light mode simulator.
 
 
 ## Contributing
@@ -68,14 +69,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Make your changes, commit them, and push to your fork.
 
 5. Open a pull request to the original repository, explaining the changes you made.
-
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
-
-- **Name:** Sagar Chauhan
-- **Email:** [sagarchauhan015@gmail.com](mailto:sagarchauhan015@gmail.com)
-
+   
 
 Enjoy using the Kanban board application to manage your tasks efficiently!
